@@ -28,6 +28,8 @@ Plug 'dense-analysis/ale'
 
 Plug 'majutsushi/tagbar'
 
+Plug 'preservim/vim-markdown'
+
 Plug 'rust-lang/rust.vim'
 
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
